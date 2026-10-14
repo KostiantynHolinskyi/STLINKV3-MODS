@@ -7,4 +7,4 @@ PCB Adapter STLINKV3-MODS
 ![](https://github.com/GolinskiyKonstantin/STLINKV3-MODS/blob/master/image/STLINK-V3MODS_1.png)
 ![](https://github.com/GolinskiyKonstantin/STLINKV3-MODS/blob/master/image/STLINK-V3MODS_2.png)
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
